@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 feng-icon.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.266942in" height="0.307722in" viewBox="0 0 19.2198 22.156" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st3">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#28b9ff;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#ffffff;font-family:华文中宋;font-size:0.833336em}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>页-1</title>
+		<g id="shape2-1" transform="translate(22.276,1.58809) rotate(90)">
+			<title>六边形</title>
+			<desc>风</desc>
+			<path d="M14.97 3.18 L4.01 3.18 L-1.47 12.67 L4.01 22.16 L14.97 22.16 L20.45 12.67 L14.97 3.18 Z" class="st1"/>
+			<text x="-17.67" y="12.49" transform="rotate(-90)" class="st2">风</text>		</g>
+	</g>
+</svg>
